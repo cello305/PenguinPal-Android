@@ -1,14 +1,14 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 4 - CodeMath
+# AND101 Project 3 - AnimalApps
 
 Submitted by: **Emanuel Warzel**
 
-Time spent: **2** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Summary
 
-**PenguinPal** is an android app that **is PayPal but for penguins**
+**PenguinPal** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
 
 ## Application Features
 
@@ -16,18 +16,29 @@ Time spent: **2** hours spent in total
 
 The following REQUIRED features are completed:
 
-- [X] At least one (1) user input
-- [X] At least one (1) interactive View
-- [ ] At least one (1) output of a calculation based on the user input
+- [X] Pick an app screenshot to duplicate
+  - Be sure to add the screenshot to "Chosen Screenshot" below.
+- [X] Create a runnable app that displays an Animal Version of your chosen screenshot
+- [X] Layout uses one (1) or more ConstraintLayout
+- [X] Layout uses one (1) or more ImageView
+- [X] Layout uses three (3) or more TextViews
 
 The following STRETCH features are implemented:
 
-- [ ] Implement ViewBinding to reduce boilerplate code and increase efficiency
-- [ ] Add at least one (1) additional functionality
+- [ ] Create a custom-shape Button using Shape Drawables
+- [ ] Customize the text fonts by creating new Font Resources
+- [ ] Add Tooltips to your Views to help users understand how to navigate the UI
+- [ ] Create a second layout, this time for an original, personal app idea
 
 The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
+
+## Chosen Screenshot
+
+I have chosen to duplicate the following layout from the **App Name Here** app:
+
+<img src='https://www.paypalobjects.com/marketing/web/US/en/rebrand/PayPal-app/paypal-app-product-scroll-section-5-size-all.png?quality=40&width=300' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
@@ -41,6 +52,14 @@ GIF created with **your chosen GIF tool**
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
+
+## Original App Layout (Optional Stretch Feature)
+
+Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
+
+It is for an app that **brief description**.
+
+<img src='https://i.imgur.com/hSG199q.gif' title='Video Demo' width='' alt='Video Demo' />
 
 ## Notes
 

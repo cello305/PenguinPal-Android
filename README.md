@@ -59,8 +59,6 @@ Here is my entry for the "Create a second layout, this time for an original, per
 
 It is for an app that **brief description**.
 
-<img src='https://i.imgur.com/hSG199q.gif' title='Video Demo' width='' alt='Video Demo' />
-
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
